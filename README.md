@@ -2,18 +2,18 @@
 
 Second Week Solution!
 
-[Module 2 Solution](Mod2-Sol)
+[Module 2 Solution](Mod2_Sol)
 
 Third Week Solution
 
-[Module 3 Solution](Mod3-Sol)
+[Module 3 Solution](Mod3_Sol)
 
 Fourth Week Solution
 
-[Module 4 Solution](Mod4-Sol)
+[Module 4 Solution](Mod4_Sol)
 
 Last Fifth Week Solution
 
-[Module 5 Solution](Mod5-Sol)
+[Module 5 Solution](Mod5_Sol)
 
 Course Completed!!! @ RAKESH KUMAR
